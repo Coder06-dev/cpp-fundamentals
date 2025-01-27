@@ -10,4 +10,3 @@ int maxOfVector(const std::vector<int>& vec) {
     }
     return maxVal;
 }
-
