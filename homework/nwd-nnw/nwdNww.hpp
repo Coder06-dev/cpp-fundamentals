@@ -20,4 +20,3 @@ int NWW(int lhs, int rhs) {
     else
         return ((lhs * rhs) / NWD(lhs, rhs));
 }
-
