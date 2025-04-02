@@ -53,4 +53,3 @@ ErrorCode checkPassword(std::string password, std::string repeatedPassword) {
     else
         return ErrorCode::PasswordsDoNotMatch;
 }
-
